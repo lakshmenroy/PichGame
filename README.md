@@ -1,1 +1,1 @@
-# PichGame
+# PickGame
